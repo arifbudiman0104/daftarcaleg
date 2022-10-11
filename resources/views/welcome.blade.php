@@ -10,11 +10,11 @@
                     src="{{ asset('image/maps.png') }}" alt="Indonesia">
                 <div
                     class="container mx-auto flex flex-col items-center justify-center  space-y-8 md:p-10 md:px-24 xl:px-48">
-                    <h1 class="text-5xl z-10 font-bold leading-none text-center text-white">BERSAMA RAKYAT
+                    <h1 class="text-3xl mt-10 md:mt-0 md:text-5xl z-10 font-bold leading-none text-center text-white">BERSAMA RAKYAT
                         MEMPERJUANGKAN
 
                     </h1>
-                    <span class="text-5xl z-10 leading-none text-center text-red-500 font-bold">
+                    <span class="text-2xl md:text-5xl z-10 leading-none text-center text-red-500 font-bold">
 
                         PERUBAHAN DAN PERBAIKAN
                     </span>

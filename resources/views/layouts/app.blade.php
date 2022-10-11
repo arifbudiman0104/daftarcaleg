@@ -24,7 +24,7 @@
                         {{ config('app.name', 'Laravel') }}
                     </a>
                 </div>
-                <nav class="space-x-4 text-gray-300 text-sm sm:text-base">
+                <nav class="space-x-4 text-gray-300 text-sm sm:text-base hidden md:block">
                     @guest
                     <a class="no-underline font-bold hover:underline" href="{{ route('login') }}">{{ __('LOGIN') }}</a>
                     @if (Route::has('register'))
