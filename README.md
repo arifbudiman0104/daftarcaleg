@@ -1,3 +1,3 @@
-## DaftarCaleg - Laravel 8, Tailwin UI, Mix.
+## DaftarCaleg - Laravel 8, Tailwind UI, Mix.
 
 ![Screenshot 1](screeshot/SS1.png)
